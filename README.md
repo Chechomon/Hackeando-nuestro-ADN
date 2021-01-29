@@ -61,5 +61,5 @@ Quise añadir esto ya que es importante saber quienes están asignados al proyec
 ![](imagenes/miembros.PNG)
 ## Burndown chart
 Es una idea de como sería de una manera más facil de entender.
-![](imagenes/graficoburnchart.PNG)
+![](imagenes/graficoburnchart.png)
 ## Calendario
