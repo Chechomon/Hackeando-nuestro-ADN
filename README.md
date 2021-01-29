@@ -48,3 +48,18 @@ Tablero extendido
 ![](imagenes/nivel.PNG)
 * Interfaz de usuario
 ![](imagenes/interfaz.PNG)
+## Visón general Proyecto
+Tenemos un resumen o visión del proyecto en donde podemos ver:
+* Progreso de tareas
+* El numero y prioridad de las tareas
+* Cantidad y tareas asignadas a cada persona
+* Tareas que se han excedido de tiempos
+* Comparación entre tiempos
+![](imagenes/overview.PNG)
+## Miembros
+Quise añadir esto ya que es importante saber quienes están asignados al proyecto y su determinado rol.
+![](imagenes/miembros.PNG)
+## Burndown chart
+Es una idea de como sería de una manera más facil de entender.
+![](imagenes/graficoburnchart.PNG)
+## Calendario
