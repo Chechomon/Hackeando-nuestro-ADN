@@ -28,6 +28,7 @@ Aquí podemos ver que se sigue un poco el estandar pero hay cosas que hacen que 
  ```
 * Imágenes
 * Etapas y cantidad de tareas en cada una
+
 Tablero comprimido
 ![](imagenes/board.PNG)
 Tablero extendido
