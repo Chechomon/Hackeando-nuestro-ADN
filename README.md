@@ -1,5 +1,6 @@
 # Hackeando nuestro ADN
 Según el reto propuesto y la metodología Agile se desarrolló un ejemplo sobre la creación de un videojuego tipo shooter en una escala muy simple pero explicativa.
+![](mapa.png)
 ## Product Backlog
 Aquí podemos ver que se utiliza una lista interactiva en la cual tiene todo lo necesario para abortar toda la información significativa con lo es:
 * Tarea general
