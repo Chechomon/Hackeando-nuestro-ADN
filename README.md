@@ -5,10 +5,12 @@ Aquí podemos ver que se utiliza una lista interactiva en la cual tiene todo lo 
 * Tarea general
 * Los encargados
 * Prioridad
+```
  - Alta:Roja. La cual va desde 8 a 10
  - Media:Amarillla. La cual va desde 6 a 7
  - Normal:Verde. 3 a 5
  - Baja:Azul. La cual va desde 1 a 2 
+ ```
 * Tiempo
 * Fecha
 ![](imagenes/lista.PNG)
