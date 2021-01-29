@@ -33,3 +33,18 @@ Tablero comprimido
 ![](imagenes/board.PNG)
 Tablero extendido
 ![](imagenes/boardextendido.PNG)
+### Tareas
+* Estética del personaje
+![](imagenes/estetica.PNG)
+* Sistema de puntaje
+![](imagenes/sistemapuntaje.PNG)
+* Condición de victoria
+![](imagenes/condicionvic.PNG)
+* Diseño de mapa
+![](imagenes/disemapa.PNG)
+* Movimiento de personaje
+![](imagenes/movperso.PNG)
+* Nivel de prueba
+![](imagenes/nivel.PNG)
+* Interfaz de usuario
+![](imagenes/interfaz.PNG)
