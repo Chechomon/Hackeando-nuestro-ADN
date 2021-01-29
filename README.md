@@ -14,3 +14,21 @@ Aquí podemos ver que se utiliza una lista interactiva en la cual tiene todo lo 
 * Tiempo
 * Fecha
 ![](imagenes/lista.PNG)
+
+## Sprint Backlog
+Aquí podemos ver que se sigue un poco el estandar pero hay cosas que hacen que sea mas interactivo y dinámico como las imágenes que describen la tarea y sus respectivos estados.
+* Tarea general
+* Los encargados
+* Subtareas
+* Estado subtareas
+```
+ - Azul:Por hacer.
+ - Verde:En progreso.
+ - Negro:Hecha.
+ ```
+* Imágenes
+* Etapas y cantidad de tareas en cada una
+Tablero comprimido
+![](imagenes/board.PNG)
+Tablero extendido
+![](imagenes/boardextendido.PNG)
