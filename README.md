@@ -65,3 +65,5 @@ Es una idea de como sería de una manera más facil de entender.
 ## Calendario
 Es una idea y secuencia de tareas a lo largo del mes.
 ![](imagenes/calendariotareas.png)
+## Autor
+- Sergio Alejandro Peña Pinto
