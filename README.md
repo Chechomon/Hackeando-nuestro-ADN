@@ -63,3 +63,5 @@ Quise añadir esto ya que es importante saber quienes están asignados al proyec
 Es una idea de como sería de una manera más facil de entender.
 ![](imagenes/graficoburnchart.png)
 ## Calendario
+Es una idea y secuencia de tareas a lo largo del mes.
+![](imagenes/calendariotareas.png)
